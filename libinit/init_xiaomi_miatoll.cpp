@@ -15,8 +15,8 @@ static const variant_info_t curtanain_info = {
     .brand = "Redmi",
     .device = "curtana",
     .model = "Redmi Note 9 Pro",
-    .build_description = "redfin-user 12 SP1A.210812.015 7679548 release-keys",
-    .build_fingerprint = "google/redfin/redfin:12/SP1A.210812.015/7679548:user/release-keys",
+    .build_description = "redfin-user 12 SP1A.211105.003/7757856 release-keys",
+    .build_fingerprint = "google/redfin/redfin:12/SP1A.211105.003/7757856:user/release-keys",
 
     .nfc = false,
 };
@@ -27,8 +27,8 @@ static const variant_info_t curtana_info = {
     .brand = "Redmi",
     .device = "curtana",
     .model = "Redmi Note 9S",
-    .build_description = "redfin-user 12 SP1A.210812.015 7679548 release-keys",
-    .build_fingerprint = "google/redfin/redfin:12/SP1A.210812.015/7679548:user/release-keys",
+    .build_description = "redfin-user 12 SP1A.211105.003/7757856 release-keys",
+    .build_fingerprint = "google/redfin/redfin:12/SP1A.211105.003/7757856:user/release-keys",
 
     .nfc = false,
 };
@@ -39,8 +39,8 @@ static const variant_info_t excalibur_info = {
     .brand = "Redmi",
     .device = "excalibur",
     .model = "Redmi Note 9 Pro Max",
-    .build_description = "redfin-user 12 SP1A.210812.015 7679548 release-keys",
-    .build_fingerprint = "google/redfin/redfin:12/SP1A.210812.015/7679548:user/release-keys",
+    .build_description = "redfin-user 12 SP1A.211105.003/7757856 release-keys",
+    .build_fingerprint = "google/redfin/redfin:12/SP1A.211105.003/7757856:user/release-keys",
 
     .nfc = false,
 };
@@ -51,8 +51,8 @@ static const variant_info_t gram_info = {
     .brand = "POCO",
     .device = "gram",
     .model = "POCO M2 Pro",
-    .build_description = "redfin-user 12 SP1A.210812.015 7679548 release-keys",
-    .build_fingerprint = "google/redfin/redfin:12/SP1A.210812.015/7679548:user/release-keys",
+    .build_description = "redfin-user 12 SP1A.211105.003/7757856 release-keys",
+    .build_fingerprint = "google/redfin/redfin:12/SP1A.211105.003/7757856:user/release-keys",
 
     .nfc = false,
 };
@@ -63,8 +63,8 @@ static const variant_info_t joyeuse_info = {
     .brand = "Redmi",
     .device = "joyeuse",
     .model = "Redmi Note 9 Pro",
-    .build_description = "redfin-user 12 SP1A.210812.015 7679548 release-keys",
-    .build_fingerprint = "google/redfin/redfin:12/SP1A.210812.015/7679548:user/release-keys",
+    .build_description = "redfin-user 12 SP1A.211105.003/7757856 release-keys",
+    .build_fingerprint = "google/redfin/redfin:12/SP1A.211105.003/7757856:user/release-keys",
 
     .nfc = true,
 };
